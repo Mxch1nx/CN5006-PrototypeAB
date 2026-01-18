@@ -1,5 +1,5 @@
 # CN5006-PrototypeAB
-Login Page : http://localhost/PrototypeAB/Prototype/login.php
+Login Page : [http://localhost/PrototypeAB/Prototype/login.php](http://localhost/PrototypeAB/Prototype/)
 
 Database:
 Import the SQL file using phpMyAdmin before running the project.
